@@ -18,7 +18,7 @@ A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass lite
 
 An image, located within /images
 
-![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
+![an image alt text]({{ site.baseurl }}/images/Where%20to%20Next%20Campaign%20webtiles_v3_Landing%20Page%202880%20x%201180px%20-%20STOCK%20PH....png "an image title")
 
 * A bulletted list
 - alternative syntax 1
