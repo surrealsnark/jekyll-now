@@ -1,57 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Yeah, we're not ready. 
 ---
-This is a demo of all styled elements in Jekyll Now.
+Thank you, come again.
 
-[View the markdown used to create this post](https://raw.githubusercontent.com/barryclark/www.jekyllnow.com/gh-pages/_posts/2014-6-19-Markdown-Style-Guide.md).
-
-This is a paragraph, it's surrounded by whitespace. Next up are some headers, they're heavily influenced by GitHub's markdown style.
-
-## Header 2 (H1 is reserved for post titles)##
-
-### Header 3
-
-#### Header 4
-
-A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
-
-An image, located within /images
 
 ![unimpressed man with a lot of spoons stuck to him]({{ site.baseurl }}/images/spoonman.jpg "Hey, Monique says your dumb")
 
 ![weird guy shutting door in your face]({{ site.baseurl }}/images/tumblr_obtddjl8SE1s461lzo1_400.gif "Thank you, come again")
-
-* A bulletted list
-- alternative syntax 1
-+ alternative syntax 2
-  - an indented list item
-
-1. An
-2. ordered
-3. list
-
-Inline markup styles:
-
-- _italics_
-- **bold**
-- `code()`
-
-> Blockquote
->> Nested Blockquote
-
-Syntax highlighting can be used with triple backticks, like so:
-
-```javascript
-/* Some pointless Javascript */
-var rawr = ["r", "a", "w", "r"];
-```
-
-Use two trailing spaces  
-on the right  
-to create linebreak tags  
-
-Finally, horizontal lines
-
-----
-****
