@@ -19,6 +19,7 @@ A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass lite
 An image, located within /images
 
 ![unimpressed man with a lot of spoons stuck to him]({{ site.baseurl }}/images/spoonman.jpg "Hey, Monique says your dumb")
+
 ![weird guy shutting door in your face]({{ site.baseurl }}/images/tumblr_obtddjl8SE1s461lzo1_400.gif "Thank you, come again")
 
 * A bulletted list
