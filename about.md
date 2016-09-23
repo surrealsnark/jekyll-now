@@ -8,4 +8,4 @@ Unlike flying or astral projection, walking through walls is a totally earth-rel
 
 ### Contact me
 
-[email@weirdoful.com](mailto:email@domain.com)
+Just don't
