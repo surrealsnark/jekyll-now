@@ -3,7 +3,8 @@
 #
 
 # Name of your site (displayed in the header)
-name: Weirdoful
+# name: Weirdoful
+avatar: https://raw.githubusercontent.com/surrealsnark/surrealsnark.github.io/master/images/weirdoful_logo.png
 
 # Short bio or description (displayed in the header)
 description: Weirdness aggregator
