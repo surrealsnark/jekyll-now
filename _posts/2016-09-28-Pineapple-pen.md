@@ -2,7 +2,9 @@
 layout: post
 title: Pineaple Pen. 
 ---
-![weird guy singing about pens and pineapples]({% include youtubePlayer.html id=page.1W3sslyiUfg %} "pineapple pen")
+{% include youtubePlayer.html id=page.1W3sslyiUfg %}
+
+![weird guy singing about pens and pineapples]( "pineapple pen")
 
 Stationery and fruit mash up.
 ---
